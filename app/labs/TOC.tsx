@@ -44,7 +44,9 @@ export default function TOC() {
                 </Link>
             </li>
             <li id="wd-your-toc">
-                <strong>Hengkim</strong>
+                <strong>Hengkim Seng</strong>
+                <br />
+                <em>Build it, break it, learn it.</em>
             </li>
         </ul>
     );
